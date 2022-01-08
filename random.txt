@@ -1,0 +1,4 @@
+component=price  20, 30 
+
+
+rec grain - 1. primary broker, cust account, rec_date, security,
